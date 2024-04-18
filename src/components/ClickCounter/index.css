@@ -48,6 +48,8 @@
   font-family: 'Roboto';
   font-size: 19px;
   padding: 9px;
+  cursor: pointer;
+  outline: none;
 }
 
 @media all and (min-width: 768px) {
